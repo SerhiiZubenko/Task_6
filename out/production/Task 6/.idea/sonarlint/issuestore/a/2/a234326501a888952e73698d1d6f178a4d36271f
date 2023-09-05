@@ -1,0 +1,7 @@
+
+o
+java:S1450"TRemove the "bonus" field and declare it as a local variable in the relevant methods.(ñ«ý¼øÿÿÿÿ
+D
+java:S1068")Remove this unused "bonus" private field.(ñ«ý¼øÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
